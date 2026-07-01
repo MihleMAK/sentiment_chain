@@ -1,0 +1,5 @@
+datasets
+langchain
+langchain-core
+langchain-ollama
+ollama
